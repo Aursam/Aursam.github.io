@@ -1,7 +1,7 @@
-title: Aursam
+title: Aurzam
 description: "A car hacking writups"
 author:
-  name: "Aursam"
+  name: "Aurzam"
   email: "samira.ashraf.alkoryem@gmail.com"
   url: "https:Aursam.github.io"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Aursam"
+owner : "Aurzam"
 year : "2026"

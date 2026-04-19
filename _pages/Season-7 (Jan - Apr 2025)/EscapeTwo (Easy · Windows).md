@@ -1,9 +1,9 @@
 ---
 title: "EscapeTwo"
 tags:
-    - Easy
-    - Windows
+  - Easy
+  - Windows
 date: "2026-01-01"
-thumbnail: "<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2f4b9c1b-680e-4783-b54a-4a1147069e29" />"
+thumbnail: '<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/54536f36-a79c-40e0-b7b9-1f04378b39cb" />'
 bookmark: true
 ---

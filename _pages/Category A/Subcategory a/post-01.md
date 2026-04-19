@@ -1,6 +1,7 @@
 ---
 title: "Example Post: no thumbnail image"
 date: "2023-12-01"
+bookmark: 
 ---
 
 # Follow the guidance

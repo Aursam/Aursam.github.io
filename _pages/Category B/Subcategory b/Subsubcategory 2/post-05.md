@@ -7,7 +7,6 @@ tags:
 date: "2023-12-05"
 thumbnail: "/assets/img/La-Mancha.jpg"
 bookmark: 
-
 ---
 
 # About the book

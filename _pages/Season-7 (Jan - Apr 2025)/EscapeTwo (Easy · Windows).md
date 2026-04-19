@@ -4,6 +4,6 @@ tags:
   - Easy
   - Windows
 date: "2026-01-01"
-thumbnail: "![EscapeTwo](https://github.com/user-attachments/assets/54536f36-a79c-40e0-b7b9-1f04378b39cb)"
+thumbnail: "![EscapeTwo](https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/d5fcf2425893a73cf137284e2de580e1.png)"
 bookmark: true
 ---
